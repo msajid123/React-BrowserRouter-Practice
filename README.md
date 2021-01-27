@@ -2,6 +2,10 @@
 
 This project is based on [React BrowserRouter](https://reactjs.org).
 
+<p align='center'>
+<img src='https://raw.githubusercontent.com/msajid123/React-BrowserRouter-Practice/master/Screenshots/Animation.gif' width='600' alt='npm start'>
+</p>
+
 ## Using Yarn
 
 Read the [Usage Guide](https://yarnpkg.com/en/docs/usage) on our website for detailed instructions on how to use Yarn.
