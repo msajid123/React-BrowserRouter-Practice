@@ -26,8 +26,6 @@ class Profile extends React.Component {
         <h5>Name:{this.state.name}</h5>
         <h5>role:{this.state.role}</h5>
         <h5>id:{this.state.id}</h5>
-        <button>Home</button>
-        <button>Directory</button>
       </div>
     );
   }
